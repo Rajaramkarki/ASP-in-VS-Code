@@ -1,0 +1,29 @@
+GET http://localhost:5265/games
+
+###
+GET http://localhost:5265/games/6
+
+###
+POST http://localhost:5265/games
+Content-Type: application/json
+
+{
+    "name": "Minecraft",
+    "genre": "Sandbox",
+    "price": 29.99,
+    "releaseDate": "2011-11-18"
+}
+
+###
+PUT http://localhost:5265/games/1
+Content-Type: application/json
+
+  {
+    "name": "Road Rash Turbo",
+    "genre": "Racing",
+    "price": 15.99,
+    "releaseDate": "2010-09-30"
+  }
+
+###
+DELETE http://localhost:5265/games/5
