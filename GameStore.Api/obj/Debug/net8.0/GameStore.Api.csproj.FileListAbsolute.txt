@@ -23,3 +23,10 @@ D:\Study stuffs\Work Related\.Net\ASP in VS Code\GameStore.Api\obj\Debug\net8.0\
 D:\Study stuffs\Work Related\.Net\ASP in VS Code\GameStore.Api\obj\Debug\net8.0\GameStore.Api.pdb
 D:\Study stuffs\Work Related\.Net\ASP in VS Code\GameStore.Api\obj\Debug\net8.0\GameStore.Api.genruntimeconfig.cache
 D:\Study stuffs\Work Related\.Net\ASP in VS Code\GameStore.Api\obj\Debug\net8.0\ref\GameStore.Api.dll
+D:\Study stuffs\Work Related\.Net\ASP in VS Code\GameStore.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Study stuffs\Work Related\.Net\ASP in VS Code\GameStore.Api\bin\Debug\net8.0\MinimalApis.Extensions.dll
+D:\Study stuffs\Work Related\.Net\ASP in VS Code\GameStore.Api\bin\Debug\net8.0\MiniValidation.dll
+D:\Study stuffs\Work Related\.Net\ASP in VS Code\GameStore.Api\obj\Debug\net8.0\GameStore.Api.csproj.AssemblyReference.cache
+D:\Study stuffs\Work Related\.Net\ASP in VS Code\GameStore.Api\obj\Debug\net8.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Study stuffs\Work Related\.Net\ASP in VS Code\GameStore.Api\obj\Debug\net8.0\GameStore.Api.sourcelink.json
+D:\Study stuffs\Work Related\.Net\ASP in VS Code\GameStore.Api\obj\Debug\net8.0\GameStor.5118A84D.Up2Date
